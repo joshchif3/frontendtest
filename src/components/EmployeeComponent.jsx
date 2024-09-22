@@ -201,7 +201,7 @@ const EmployeeComponent = () => {
                     <form onSubmit={saveOrUpdateEmployee}>
                         {/* Input fields */}
                         <div style={styles.formGroup}>
-                            <label style={styles.label}>First Name</label>
+                            <label style={styles.label}>First NameXX</label>
                             <input
                                 type='text'
                                 placeholder='Enter Employee First Name'
